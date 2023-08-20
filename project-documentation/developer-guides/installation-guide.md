@@ -1,37 +1,32 @@
----
-layout: default
-permalink: /installation/
-title: Installation
-redirect_from:
-  - /docs/installation.md/
-  - /docs/installation/
----
-
-# Installation
-
-* TOC
-{:toc}
+# Konsole Installation Guide
 
 We have multiple ways to install Kompose. Our preferred (and most up-to-date) method is downloading the binary from the latest GitHub release.
 
-## GitHub release
+<img src="/../images-pictures/cover-image.png" alt= “” wiaadth="225" heighat="225">
+
+## Download GitHub Releases
 
 Kompose is released via GitHub, you can see all current releases on the [GitHub release page](https://github.com/kubernetes/kompose/releases).
 
-**Linux and macOS:**
+### Github Release For Linux
 
-```sh
-# Linux
+```bash
+
 curl -L https://github.com/kubernetes/kompose/releases/download/v1.30.0/kompose-linux-amd64 -o kompose
 
-# macOS
+```
+
+### Github Release For macOS
+
+```bash
 curl -L https://github.com/kubernetes/kompose/releases/download/v1.30.0/kompose-darwin-amd64 -o kompose
 
 chmod +x kompose
+
 sudo mv ./kompose /usr/local/bin/kompose
 ```
 
-**Windows:**
+### Github Release For Windows
 
 Download from [GitHub](https://github.com/kubernetes/kompose/releases/download/v1.30.0/kompose-windows-amd64.exe) and add the binary to your PATH.
 

@@ -19,7 +19,7 @@ redis-master-2410703502-9hshf   1/1       Running             0          10s
 redis-replica-4049176185-hr1lr  1/1       Running             0          10s
 ```
 
-[Installation](/developer-guides/project-installation.md)
+[Installation Guide](developer-guides/installation-guide.md)
 
 ## Get started on Kubernetes immediately
 
@@ -31,7 +31,7 @@ Developers love to simplify their development environment with Docker Compose.
 
 With Kompose, you can now push the same file to a production container orchestrator!
 
-[Getting Started](/developer-guides/getting-started-guide.md)
+[Getting Started](developer-guides/getting-started-guide.md)
 
 ## Built for container engineers
 
@@ -44,4 +44,4 @@ Our conversions are not always 1-1 from Docker Compose to Kubernetes, but we wil
 * An in-depth user guide to use advanced features such as LoadBalancer, Service and TLS
 * Labels that provide the extra 1% needed to get to 1-1 conversion
 
-[Developer Guide](/developer-guides/developer-guide.md)
+[User Guide](developer-guides/user-guide.md)

@@ -3,26 +3,22 @@ docs_dir: project-documentation
 
 site_name: Kompose
 
-##site_name: Kompose - Convert your Docker Compose file to Kubernetes or OpenShift
-
 nav:
 
-    - Home: 'index.md'
-    
-    - Getting Started: 'about.md'
+    - Home: 'index.md'   
     
     - Installation: 'index.md'
 
-    - Developer Guide: 'about.md'
+    - Getting Started: 'about.md'
     
-    - User Guide: 'about.md'
-
+    - Developer Guide: 'about.md'
+        
     - Project Architecture: 'about.md'
 
     - Project Management: 'about.md'
         
     - Local Demo: 'about.md'
-    
+
 theme:
 
     ##
@@ -38,7 +34,7 @@ theme:
     ##     spacelab, superhero, united, yeti 
     ##
         
-    name: spacelab
+    name: lux
     
     ## 
     ## you can alternate colors for the navigation header.

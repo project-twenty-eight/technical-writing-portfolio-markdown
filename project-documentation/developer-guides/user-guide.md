@@ -1,18 +1,9 @@
----
-layout: default
-permalink: /user-guide/
-title: User Guide
-redirect_from:
-  - /docs/user-guide.md/
-  - /docs/user-guide/
----
-
 # User Guide
 
-* TOC
-{:toc}
-
 Kompose has support for two providers: OpenShift and Kubernetes.
+
+<img src="/../images-pictures/cover-image.png" alt= “” wiaadth="225" heighat="225">
+
 You can choose a targeted provider using global option `--provider`. If no provider is specified, Kubernetes is set by default.
 
 ## Kompose Convert
