@@ -7,17 +7,15 @@ nav:
 
     - Home: 'index.md'   
     
-    - Installation: 'index.md'
+    - Installation: 'developer-guides/installation-guide.md'
 
-    - Getting Started: 'about.md'
+    - Getting Started: 'developer-guides/getting-started-guide.md'
     
-    - Developer Guide: 'about.md'
+    - User Guide: 'developer-guides/user-guide.md'
         
-    - Project Architecture: 'about.md'
+    - Architecture: 'developer-guides/software-architecture-guide.md'
 
-    - Project Management: 'about.md'
-        
-    - Local Demo: 'about.md'
+    - Project Management: 'project-management/project-management-home.md'       
 
 theme:
 
