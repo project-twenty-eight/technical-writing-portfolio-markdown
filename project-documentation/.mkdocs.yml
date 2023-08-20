@@ -1,0 +1,47 @@
+
+docs_dir: project-documentation
+
+site_name: Kompose
+
+##site_name: Kompose - Convert your Docker Compose file to Kubernetes or OpenShift
+
+nav:
+
+    - Home: 'index.md'
+    
+    - Installation: 'index.md'
+
+    - Getting Started: 'about.md'
+
+    - User Guide: 'about.md'
+
+    - Conversion Matrix: 'about.md'
+
+    - Software Architecture: 'about.md'
+
+    - Deployment Guide: 'about.md'
+    
+theme:
+
+    ##
+    ## Find More Themes Here:
+    ##
+    ##     https://mkdocs.github.io/mkdocs-bootswatch/
+    ##
+    ## List of theme values:
+    ##
+    ##     mkdocs, readthedocs, material, cerulean, cosmo, 
+    ##     cyborg, darkly, flatly, journal, litera, lumen, lux,
+    ##     materia, minty, pulse, sandstone, simplex, slate, solar,
+    ##     spacelab, superhero, united, yeti 
+    ##
+        
+    name: spacelab
+    
+    ## 
+    ## you can alternate colors for the navigation header.
+    ##
+    ## Allowed values: primary (the default), dark, and light:
+    ##
+    
+    nav_style: primary
