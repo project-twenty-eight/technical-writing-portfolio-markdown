@@ -47,3 +47,5 @@ theme:
     ##
     
     nav_style: primary
+
+extra_css: [extra.css]
