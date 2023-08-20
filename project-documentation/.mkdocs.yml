@@ -9,17 +9,19 @@ nav:
 
     - Home: 'index.md'
     
+    - Getting Started: 'about.md'
+    
     - Installation: 'index.md'
 
-    - Getting Started: 'about.md'
-
+    - Developer Guide: 'about.md'
+    
     - User Guide: 'about.md'
 
-    - Conversion Matrix: 'about.md'
+    - Project Architecture: 'about.md'
 
-    - Software Architecture: 'about.md'
-
-    - Deployment Guide: 'about.md'
+    - Project Management: 'about.md'
+        
+    - Local Demo: 'about.md'
     
 theme:
 
